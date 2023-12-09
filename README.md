@@ -1,8 +1,8 @@
 Cервер для авторизации\
 
-auth/models.py - модели пользователя для БД\
+auth/models.py - модели пользователя для БД
 auth/router.py - маршруты для API\
-auth/schemas.py - классы для валидации данных\
+auth/schemas.py - классы для валидации данных
 auth/service.py - основные функции\
 
 database/database.py - подключение к бд\
